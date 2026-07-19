@@ -26,7 +26,6 @@ This lab simulates a suspected DNS issue at a company. Multiple users are compla
 
 
 ## Steps
-<br><br>
 Step 1. Log into the first internal machine as admin
 <br><br>
 <img width="985" height="713" alt="SS1_login_admin" src="https://github.com/user-attachments/assets/d028ddce-777e-4219-9098-91ff437df41f" />
